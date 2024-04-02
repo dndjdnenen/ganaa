@@ -2,7 +2,7 @@ package odeject_class;
 
 import java.time.temporal.TemporalAmount;
 
-//은행계좌 클래스(신한은행)
+//은행계좌 클래스(신한은행) // 멤버변수 어쩌구~ 추가
 public class Acconut {
 	//클래스 안에 사용할 멤버변수(필드) 필드는 클래스를 생성하고 나서 값을 저장하는 변수이다. (매개변수 외부에서 받는 변수 멤버면수 클래스에서 받는변수)
 	static final String BANKNAME="신한은행"; //상수 static 이 붙으면정적멤버변수가됨. 안붙으면 인스턴스멤버변수
